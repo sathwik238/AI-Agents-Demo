@@ -18,3 +18,7 @@ fastapi
 uvicorn
 pydantic
 openai
+matplotlib
+yahoo_fin
+requests_html
+yfinance
