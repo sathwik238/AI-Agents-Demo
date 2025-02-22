@@ -22,3 +22,6 @@ matplotlib
 yahoo_fin
 requests_html
 yfinance
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
