@@ -9,7 +9,6 @@ load_dotenv
 phi
 phidata
 groq
-phidata
 python-dotenv
 yfinance
 packaging
@@ -21,7 +20,6 @@ openai
 matplotlib
 yahoo_fin
 requests_html
-yfinance
 google-api-python-client 
 google-auth-httplib2 
 google-auth-oauthlib
